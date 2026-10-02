@@ -1,0 +1,22 @@
+/*search box kutusunu stillendirmek icin css dosyasi olusturduk*/
+
+.searchBox {
+    width: 280px;;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    }
+
+    .input {
+    height: 36px;
+    padding: 6px 10px;
+    font-size: 18px;
+    display: block;
+    border: 1px solid #666;
+    border-radius: 6px;
+    }
+
+    .label {
+        font-size: 20px;
+    }
